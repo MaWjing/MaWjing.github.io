@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+###个人信息
+###name: 马文婧
+###学历：本科在读
+###学校：浙江万里学院
+###邮箱：1023119948@qq.com
+###地址：浙江 宁波
 
-You can use the [editor on GitHub](https://github.com/MaWjing/MaWjing.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###最新消息
+1.消息1 胖了10斤
+2.消息2 希望一起床会收到 疫情消除的消息
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###研究方向
+- 信息安全
+- 网络安全
+- 区块链入门
 
-### Markdown
+###荣誉奖励
+- 校奖学金
+- 学院先进个人
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaWjing/MaWjing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###在校职务
+- 信息与智能工程学院社区自理会副主席
+- 所在专业班级生活委员
