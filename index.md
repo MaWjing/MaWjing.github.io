@@ -3,9 +3,7 @@
 <table border="0">
  <tr>
   <td width="70%">
-   <h1>
-    <font color = #fd7e14>马文婧</font>
-   </h1>
+   <h1>马文婧</h1>
    <p><b>Undergraduate college</b></p>
    <p><b>WanLi university</b></p>
    <p><b>Mailbox：1023119948@qq.com</b></p>
@@ -36,8 +34,8 @@
              
     
     
-### Problem feedback
-#### If you have any questions in use, please give me feedback. You can use the following contact information to communicate with me
+#### Problem feedback
+###### If you have any questions in use, please give me feedback. You can use the following contact information to communicate with me
 * Weixin: Secret
 * QQ:1023119948
 
