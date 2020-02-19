@@ -28,7 +28,15 @@
 
 ## Motto
 - 明知不可为而为之,有所不为,方有可为。
-    -  If you know you can't do something, you can do something.
-             *It's from one of my favorite TV plays
+    - If you know you can't do something, you can do something.
+             * It's from one of my favorite TV plays
              
-<a href="#top">返回顶部</a>
+             
+           
+### Problem feedback
+#### If you have any questions in use, please give me feedback. You can use the following contact information to communicate with me
+* Weixin: Secret
+* QQ:1023119948
+
+
+<a href="#top">Back to Top</a>
