@@ -1,4 +1,5 @@
 <body  onload="alert('欢迎来到小马的信息介绍网页!!!')">
+ </body>
 ## Personal information
 <a id="top"></a>
 <table border="0">
