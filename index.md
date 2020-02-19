@@ -1,4 +1,4 @@
- ###  Personal information
+### Personal information
 
 <table border="0">
  <tr>
@@ -15,7 +15,7 @@
   </tr>
  </table>
  
- ### Research direction
+### Research direction
 - Network Security
 - Network Management
 - Blockchain Technology
